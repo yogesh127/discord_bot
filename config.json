@@ -1,0 +1,15 @@
+
+{
+"discord" :
+{
+  "token" : BOT_TOKE_ID
+},
+  "redis":{
+
+    "host":HOST_URL,
+    "password" : PASSWORD,
+    "port" : PORT_NUMBER
+
+  }
+
+}
